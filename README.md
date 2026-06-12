@@ -18,3 +18,11 @@ A machine learning project using the Iris Dataset and K-Nearest Neighbors (KNN) 
 * Scikit-Learn
 * NumPy
 * Pandas
+
+## Author
+
+Sayyad Yasmin
+
+## Internship
+
+DecodeLabs AI Internship Program
